@@ -12,7 +12,7 @@ Java8 JRE (JRE 1.8) is required
 
 ### Use the Official Java8 (1.8) from Oracle
 
-#### Place the .jar file in a Folder/Directory and Simply double-click the file to run it
+#### Place the Woof.jar file in a Folder/Directory and Simply double-click the file to run it
 
 ## The GUI (Graphic User Interface):
 • Optional ’Skins and Reticle’ [Right-Click Skin button]  
