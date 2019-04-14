@@ -1,6 +1,8 @@
 # Woof
 ## A Screen - Image Measuring Tool
 
+## The GIF files are Video Examples
+
 # What It Does:
 
 • Displays current Screen Position of Target Reticle, Distance and Angle  
