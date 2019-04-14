@@ -11,6 +11,8 @@
 Java8 (1.8) is required. For non-programmers, only the JRE is needed.
 *** Use the Official Java, it's from Oracle ***
 
+#### Place the .jar file in a Folder/Directory and Simply double-click the file to run it
+
 ## The GUI (Graphic User Interface):
 • Optional ’Skins and Reticle’ [Right-Click Skin button]
 • Left-Click the info button
