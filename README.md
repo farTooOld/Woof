@@ -6,7 +6,7 @@
 
 Added sinking can be done in various ways. This example shows one-way to get the needed dimensions from the circuit for a copper GND plane (without using Fritzing’s Ground Plane feature).
 
-Points were taken and used in a Graphics app to make an SVG of it, then it was loaded into the “Copper Image” part.
+Points were taken and used in a Graphics app to make an SVG of it, then it was loaded into the “Copper Image” part.)
 
 # What It Does:
 
