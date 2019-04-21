@@ -2,6 +2,11 @@
 ## A Screen - Image Measuring Tool
 
 ## The GIF files are Video Examples
+(FYI - One example shows usage of a SN754410 H-Bridge chip has an internal Heat-Sink attached to the 4 GND pins.
+
+Added sinking can be done in various ways. This example shows one-way to get the needed dimensions from the circuit for a copper GND plane (without using Fritzing’s Ground Plane feature).
+
+Points were taken and used in a Graphics app to make an SVG of it, then it was loaded into the “Copper Image” part.
 
 # What It Does:
 
